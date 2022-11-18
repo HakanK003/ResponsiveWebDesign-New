@@ -3,6 +3,15 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Projects
 
+- [**Registration Form**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RegistrationForm)
+    - *Focused on* 
+        - input element
+        - data types
+        <div>
+          <br>
+          <img src="projectsScreenshots/RegistrationFormSS.png">
+        </div>
+
 - [**Color Markers**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/ColorMarkers)
     - *Focused on* 
         - colors (rgb/hex/hsl), 
