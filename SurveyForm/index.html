@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <header>
+      <h1 id="title">Survey Form</h1>
+      <p id="description"><i>Thank you for taking the time to help us improve our service</i></p>
+    </header>
+    <form id="survey-form">
+      <div class="partOfForm">
+        <label id="name-label" for="name">Name</label>
+        <input id="name" type="text" required placeholder="Enter your name"/>
+        <label id="email-label" for="email">Email</label>
+        <input id="email" type="email" required placeholder="Enter your email"/>
+        <label id="number-label" for="number">Age</label>
+        <input id="number" type="number" min="13" max="120" placeholder="Age"/>
+      </div>
+
+      <div class="partOfForm">
+        <p id="dropdownDescription">Which option best describes your current role?</p>
+        <select id="dropdown">
+          <option value="">(select one)</option>
+          <option value="student">Student</option>
+          <option value="job">Full time job</option>
+          <option value="learner">Full time learner</option>
+          <option value="preferNot">Prefer not to say</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+
+      <div class="partOfForm2">
+        <p>Would you recommend our service to a friend?</p>
+        <label id="radio1Label" for="definitely-radio1">
+          <input id="definitely-radio1" name="pickOne" type="radio" value="definitely" checked class="radioButton"/>
+          Definitely
+        </label>
+        <label id="radio2Label" for="maybe-radio2">
+          <input id="maybe-radio2" name="pickOne" type="radio" value="maybe" class="radioButton"/>
+          Maybe 
+        </label>     
+        <label id="radio3Label" for="notSure-radio3">
+          <input id="notSure-radio3" name="pickOne" type="radio" value="notSure" class="radioButton"/>
+          Not Sure  
+        </label>    
+      </div>
+
+      <div class="partOfForm2">
+        <p>Which Programming Language do you prefer? <br><i>(Check all that apply)</i>
+        </p>
+        <label id="javaProgramingLanguage" for="java">
+          <input id="java" type="checkbox" value="java"/>
+          Java
+        </label>
+        <label id="javaScriptProgramingLanguage" for="javaScript">   
+          <input id="javaScript" type="checkbox" value="javaScript"/>
+          JavaScript
+        </label>   
+        <label id="pythonProgramingLanguage" for="python">     
+          <input id="python" type="checkbox" value="python"/>
+          Python
+        </label> 
+        <label id="cppProgramingLanguage" for="cpp">    
+          <input id="cpp" type="checkbox" value="cpp"/>
+          C++
+        </label>  
+        <label id="otherProgramingLanguage" for="otherPL">    
+          <input id="otherPL" type="checkbox" value="other"/>
+          Other
+        </label>
+      </div>
+
+      <div class="partOfForm">
+        <p id="moreComments">Any comments or suggestions?</p>
+        <textarea id="textarea" type="textarea" placeholder="Enter your comment here..." ></textarea>
+      </div>
+
+      <div class="partOfForm">
+        <input id="submit" type="submit"/>
+      </div>
+
+    </form>
+
+  </body>
+</html> 
