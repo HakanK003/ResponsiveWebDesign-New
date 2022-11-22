@@ -13,6 +13,22 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**Nutrition Label**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/NutritionLabel)
+    - *Focused on* 
+        - typography
+        <div>
+          <br>
+          <img src="projectsScreenshots/NutritionLabelSS.png">
+        </div>
+
+- [**Flexbox Photo Gallery**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/FlexboxPhotoGallery)
+    - *Focused on* 
+        - flexbox
+        <div>
+          <br>
+          <img src="projectsScreenshots/FlexboxPhotoGallerySS.png">
+        </div>
+
 - [**Rothko Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RothkoPainting)
     - *Focused on* 
         - box model
