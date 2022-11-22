@@ -1,7 +1,25 @@
 # ResponsiveWebDesign-New
 This repository has projects from freeCodeCamp [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) courses.
 
-### Projects
+## Projects
+
+### My Projects
+
+- [**Survey Form**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/SurveyForm)
+        <div>
+          <br>
+          <img src="projectsScreenshots/SurveyFormSS.png">
+        </div>
+
+### Practice Projects
+
+- [**Rothko Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RothkoPainting)
+    - *Focused on* 
+        - box model
+        <div>
+          <br>
+          <img src="projectsScreenshots/RothkoPaintingSS.png">
+        </div>
 
 - [**Registration Form**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RegistrationForm)
     - *Focused on* 
