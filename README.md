@@ -13,6 +13,14 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**Quiz**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Quiz)
+    - *Focused on* 
+        - accessibility 
+        <div>
+          <br>
+          <img src="projectsScreenshots/QuizSS.png">
+        </div>
+
 - [**Nutrition Label**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/NutritionLabel)
     - *Focused on* 
         - typography
@@ -71,6 +79,5 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
         - Basics of HTML and HTML elements
         <div>
           <br>
-          <img src="projectsScreenshots/CatPhotoAppSS1.png">
-          <img src="projectsScreenshots/CatPhotoAppSS2.png">
+          <img src="projectsScreenshots/CatPhotoAppSS.png">
         </div>
