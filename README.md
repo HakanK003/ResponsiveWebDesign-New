@@ -5,6 +5,12 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### My Projects
 
+- [**Tribute Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/TributePage)
+        <div>
+          <br>
+          <img src="projectsScreenshots/TributePageSS.png">
+        </div>
+
 - [**Survey Form**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/SurveyForm)
         <div>
           <br>

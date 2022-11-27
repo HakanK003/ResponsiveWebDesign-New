@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+#image{
+  max-width: 100%;
+  height:auto;
+  justify-content: center;
+}
+
+p, h1, h3, figure{
+  display: block;
+  text-align: center;
+  width:100%;
+}
+h1{
+    margin-bottom:0;
+}
+
+main{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: center;
+
+  padding: 1em;
+
+  background-color: #f1f1f1;
+}
+
+figure{
+  padding: 0.5em;
+  background-color: #f1f1fa;
+}
+
+#title{
+    max-width:50%;
+}
+
+#tribute-info{
+    max-width:50%;
+}
+
+li{
+    margin: 1em;
+}
