@@ -19,9 +19,17 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**BalanceSheet**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/BalanceSheet)
+    - *Focused on* 
+        - Pseudo selectors 
+        <div>
+          <br>
+          <img src="projectsScreenshots/BalanceSheetSS.png">
+        </div>
+
 - [**Quiz**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Quiz)
     - *Focused on* 
-        - accessibility 
+        - Accessibility 
         <div>
           <br>
           <img src="projectsScreenshots/QuizSS.png">
@@ -29,7 +37,7 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 - [**Nutrition Label**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/NutritionLabel)
     - *Focused on* 
-        - typography
+        - Typography
         <div>
           <br>
           <img src="projectsScreenshots/NutritionLabelSS.png">
@@ -37,7 +45,7 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 - [**Flexbox Photo Gallery**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/FlexboxPhotoGallery)
     - *Focused on* 
-        - flexbox
+        - Flexbox
         <div>
           <br>
           <img src="projectsScreenshots/FlexboxPhotoGallerySS.png">
@@ -45,7 +53,7 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 - [**Rothko Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RothkoPainting)
     - *Focused on* 
-        - box model
+        - Box model
         <div>
           <br>
           <img src="projectsScreenshots/RothkoPaintingSS.png">
@@ -53,8 +61,8 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 - [**Registration Form**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/RegistrationForm)
     - *Focused on* 
-        - input element
-        - data types
+        - Input element
+        - Data types
         <div>
           <br>
           <img src="projectsScreenshots/RegistrationFormSS.png">
@@ -62,10 +70,10 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 - [**Color Markers**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/ColorMarkers)
     - *Focused on* 
-        - colors (rgb/hex/hsl), 
-        - linear-gradient (180deg, 90deg...)
-        - opacity, alpha channel (rgba/hexa/hsla)
-        - shadow
+        - Colors (rgb/hex/hsl), 
+        - Linear-gradient (180deg, 90deg...)
+        - Opacity, alpha channel (rgba/hexa/hsla)
+        - Shadow
         <div>
           <br>
           <img src="projectsScreenshots/ColoredMarkesSS.png">
