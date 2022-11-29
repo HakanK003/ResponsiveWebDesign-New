@@ -19,6 +19,15 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**Picasso Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/PicassoPainting)
+    - *Focused on* 
+        - SVG icons
+        - CSS positioning
+        <div>
+          <br>
+          <img src="projectsScreenshots/PicassoPaintingSS.png">
+        </div>
+
 - [**BalanceSheet**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/BalanceSheet)
     - *Focused on* 
         - Pseudo selectors 
