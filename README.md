@@ -19,6 +19,14 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**Piano**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Piano)
+    - *Focused on* 
+        - Responsive Design
+        <div>
+          <br>
+          <img src="projectsScreenshots/PianoSS.png">
+        </div>
+
 - [**Picasso Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/PicassoPainting)
     - *Focused on* 
         - SVG icons
