@@ -19,6 +19,15 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Practice Projects
 
+- [**City Skyline**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Piano)
+    - *Focused on* 
+        - CSS variables
+        <div>
+          <br>
+          <img src="projectsScreenshots/CitySkylineSS2.png">
+          <img src="projectsScreenshots/CitySkylineSS1.png">
+        </div>
+
 - [**Piano**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Piano)
     - *Focused on* 
         - Responsive Design
