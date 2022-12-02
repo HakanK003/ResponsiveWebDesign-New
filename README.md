@@ -5,6 +5,13 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### My Projects
 
+- [**Technical Documentation Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/TechnicalDocumentationPage)
+        <div>
+          <br>
+          <img src="projectsScreenshots/TechnicalDocumentationPageSS1.png">
+          <img src="projectsScreenshots/TechnicalDocumentationPageSS2.png" height="225px">
+        </div>
+
 - [**Tribute Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/TributePage)
         <div>
           <br>
@@ -17,9 +24,9 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
           <img src="projectsScreenshots/SurveyFormSS.png">
         </div>
 
-### Practice Projects
+### Guided Projects
 
-- [**City Skyline**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Piano)
+- [**City Skyline**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/CitySkyline)
     - *Focused on* 
         - CSS variables
         <div>
@@ -33,7 +40,9 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
         - Responsive Design
         <div>
           <br>
-          <img src="projectsScreenshots/PianoSS.png">
+          <img src="projectsScreenshots/PianoSS1.png">
+          <img src="projectsScreenshots/PianoSS2.png" height="125px">
+          <img src="projectsScreenshots/PianoSS3.png" height="125px">
         </div>
 
 - [**Picasso Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/PicassoPainting)
