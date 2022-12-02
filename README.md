@@ -9,7 +9,7 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
         <div>
           <br>
           <img src="projectsScreenshots/TechnicalDocumentationPageSS1.png">
-          <img src="projectsScreenshots/TechnicalDocumentationPageSS2.png" height="225px">
+          <img src="projectsScreenshots/TechnicalDocumentationPageSS2.png" height="400px">
         </div>
 
 - [**Tribute Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/TributePage)
@@ -41,8 +41,8 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
         <div>
           <br>
           <img src="projectsScreenshots/PianoSS1.png">
-          <img src="projectsScreenshots/PianoSS2.png" height="125px">
-          <img src="projectsScreenshots/PianoSS3.png" height="125px">
+          <img src="projectsScreenshots/PianoSS2.png" height="300px">
+          <img src="projectsScreenshots/PianoSS3.png" height="300px">
         </div>
 
 - [**Picasso Painting**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/PicassoPainting)
