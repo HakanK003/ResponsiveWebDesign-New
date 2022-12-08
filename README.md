@@ -26,6 +26,22 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Guided Projects
 
+- [**Magazine**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Magazine)
+    - *Focused on* 
+        - CSS grid
+        <div>
+          <br>
+          <img src="projectsScreenshots/MagazineSS01.png">
+          <img src="projectsScreenshots/MagazineSS02.png">
+          <img src="projectsScreenshots/MagazineSS03.png">
+          <img src="projectsScreenshots/MagazineSS011.png"  height="265px">
+          <img src="projectsScreenshots/MagazineSS012.png" height="265px">
+          <img src="projectsScreenshots/MagazineSS013.png" height="265px">
+          <img src="projectsScreenshots/MagazineSS014.png" height="265px">
+          <img src="projectsScreenshots/MagazineSS015.png" height="265px">
+          <img src="projectsScreenshots/MagazineSS016.png" height="265px">
+        </div>
+
 - [**City Skyline**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/CitySkyline)
     - *Focused on* 
         - CSS variables
