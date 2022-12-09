@@ -26,6 +26,15 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Guided Projects
 
+
+- [**Ferris Wheel**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/FerrisWheel)
+    - *Focused on* 
+        - Animation
+        <div>
+          <br>
+          <img src="projectsScreenshots/FerrisWheelSS.png">
+        </div>
+
 - [**Magazine**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Magazine)
     - *Focused on* 
         - CSS grid
