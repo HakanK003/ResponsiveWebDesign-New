@@ -26,10 +26,17 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### Guided Projects
 
+- [**Penguin**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/Penguin)
+    - *Focused on* 
+        - CSS Transforms
+        <div>
+          <br>
+          <img src="projectsScreenshots/PenguinSS.png">
+        </div>
 
 - [**Ferris Wheel**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/FerrisWheel)
     - *Focused on* 
-        - Animation
+        - CSS Animation
         <div>
           <br>
           <img src="projectsScreenshots/FerrisWheelSS.png">
