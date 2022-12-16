@@ -5,6 +5,21 @@ This repository has projects from freeCodeCamp [(New) Responsive Web Design](htt
 
 ### My Projects
 
+- [**Personal Portfolio Webpage**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/PersonalPortfolioWebpage)
+        <div>
+          <br>
+          <img src="projectsScreenshots/PersonalPortfolioWebpageSS1.png">
+          <img src="projectsScreenshots/PersonalPortfolioWebpageSS2.png">
+          <img src="projectsScreenshots/PersonalPortfolioWebpageSS3.png">
+        </div>
+
+- [**Product Landing Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/ProductLandingPage)
+        <div>
+          <br>
+          <img src="projectsScreenshots/ProductLandingPageSS1.png">
+          <img src="projectsScreenshots/ProductLandingPageSS2.png">
+        </div>
+
 - [**Technical Documentation Page**](https://github.com/HakanK003/ResponsiveWebDesign-New/tree/main/TechnicalDocumentationPage)
         <div>
           <br>
